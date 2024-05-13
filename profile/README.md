@@ -1,5 +1,5 @@
 ## Welcome to the HSIN Code Challenge Demo Site
-Our demo site is designed to showcase the functionalities across various departments including **IT**,** Accounting**, **HR**, and **Compliance**. Below you will find detailed instructions for accessing the site using the credentials provided. Please select the account that corresponds to the level of access and departmental interface you wish to review.
+Our demo site is designed to showcase the functionalities across various departments including **IT**,**Accounting**, **HR**, and **Compliance**. Below you will find detailed instructions for accessing the site using the credentials provided. Please select the account that corresponds to the level of access and departmental interface you wish to review.
 
 ### How to access website? 
 Reference implementation application can be accessed using https://hsin-gateway-dev.exor-dev.com/hsin-it
