@@ -32,7 +32,7 @@ Demo site uses Github code repository. For CI/CD pipeline it leverages Github Ac
 Demo site is defined as Github Organization and each department specific shared services are in its own department service repository. UX shared accross multiple department has its own repository. All other site related artifacts are combined together.
 
 |Repository Name|Usage|Github repo URL|
-| ------------ | ------------ |
+| ------------ | ------------ | ------------ |
 |hsin-it|Shared UX repository|https://github.com/ITStrat-Worldwide-Enterprises/hsin-it.git|
 |hsin-it-api|IT Department service repository|https://github.com/ITStrat-Worldwide-Enterprises/hsin-it-api.git|
 |hsin-hr-api|HR Department service repository|https://github.com/ITStrat-Worldwide-Enterprises/hsin-hr-api.git|
