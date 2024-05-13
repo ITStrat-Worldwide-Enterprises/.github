@@ -1,6 +1,9 @@
 ## Welcome to the HSIN Code Challenge Demo Site
 Our demo site is designed to showcase the functionalities across various departments including **IT**,** Accounting**, **HR**, and **Compliance**. Below you will find detailed instructions for accessing the site using the credentials provided. Please select the account that corresponds to the level of access and departmental interface you wish to review.
 
+### How to access website? 
+Reference implementation application can be accessed using https://hsin-gateway-dev.exor-dev.com/hsin-it
+
 ### Full Access Accounts
 Individuals with full access credentials are granted unrestricted access to all available functionalities across each of the four departments. These accounts are particularly advantageous for those who seek to experience the system's complete capabilities.
 
@@ -24,21 +27,8 @@ In order to simulate the standard user and administrator roles within a specific
 |comp-admin@hisncodechallange.com|hsinTest2024!|Compliance Admin|
 |comp-user@hisncodechallange.com|hsinTest2024!|Compliance User|
 
-### How to access website? 
-Reference implementation application can be accessed using https://hsin-gateway-dev.exor-dev.com/hsin-it
 
-### How many roles are defined in Demo site?
-There are 8 different roles defined in demo site. Role details and access permission associated are listed below:
-|Role Name|Allowed access|
-| ------------ | ------------ |
-|IT Admin|   |
-|IT User|   |
-|Accounting Admin|   |
-|Accounting User|   |
-|HR Admin|   |
-|HR User|   |
-|Compliance Admin|   |
-|Compliance User|   |
+
 
 
 
