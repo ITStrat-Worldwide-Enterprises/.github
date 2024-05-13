@@ -1,2 +1,0 @@
-# .github
-Worldwide Enterprises README
