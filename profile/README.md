@@ -27,19 +27,14 @@ In order to simulate the standard user and administrator roles within a specific
 |comp-admin@hisncodechallange.com|hsinTest2024!|Compliance Admin|
 |comp-user@hisncodechallange.com|hsinTest2024!|Compliance User|
 
+### How Demo Site code repository is organized?
+Demo site uses Github code repository. For CI/CD pipeline it leverages Github Actions. Each repo as well as subfolder has associated README describing details. 
+Demo site is defined as Github Organization and each department specific shared services are in its own department service repository. UX shared accross multiple department has its own repository. All other site related artifacts are combined together.
 
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
+|Repository Name|Usage|
+| ------------ | ------------ |
+|hsin-it|Shared UX repository|
+|hsin-it-api|IT Department service repository|
+|hsin-hr-api|HR Department service repository|
+|hsin-compliance-api|Compliance Department service repository|
+|hsin-accounting-api|Accounting Department service repository|
